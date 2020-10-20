@@ -5,8 +5,9 @@
 ## ¿Qué es ART?
 
 [Adversarial Robustness Toolbox](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) abreviado como ART, es una librería opensource de Adversarial Machine Learning que permite comprobar la robustez de los modelos demachine learning. Está desarrollada en Python e implementa ataques y defensas de extracción, inversión, envenenamiento y evasión. ART soporta los frameworks más populares: Tensorflow, Keras, PyTorch, MxNet, ScikitLearn, entre muchos otros).Además, no está limitada al uso de modelos que emplean imágenes como entrada, sino que soporta otros tipos de datos como audio, vídeo, datos tabulares, etc.
-
-![ART logo](./img/art_logo.png)
+<p align="center">
+  <img width="80%" src="./img/art_logo.png" alt="Logo de ART">
+</p>
 
 ### Enlaces útiles
 
@@ -35,15 +36,21 @@ El orden en el que se ejecuten los notebooks es irrelevante, pero es recomendabl
 
   2. Importar todos los notebooks de este repositorio usando pestaña GitHub.
 
-  ![Pestaña de GitHub en Colab](./img/colab_import.png)
+  <p align="center">
+    <img width="80%" src="./img/colab_import.png" alt="Pestaña de GitHub en Colab">
+  </p>
 
   3. Cambiar el entorno de ejecución a `GPU`, salvo en el notebook de envenenamiento.
 
   Se encuentra en el menú `Entorno de ejecución > Cambiar entorno de ejecución`.
 
-  ![Menú entorno de ejecución en Colab](./img/colab_gpu_1.png)
+  <p align="center">
+    <img width="80%" src="./img/colab_gpu_1.png" alt="Menú entorno de ejecución en Colab">
+  </p>
 
-  ![Cambiar entorno de ejecución en Colab](./img/colab_gpu_2.png)
+  <p align="center">
+    <img width="80%" src="./img/colab_gpu_2.png" alt="Cambiar entorno de ejecución en Colab">
+  </p>
 
 ## Crédito
 
