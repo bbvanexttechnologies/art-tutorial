@@ -4,7 +4,7 @@
 
 ## ¿Qué es ART?
 
-[Adversarial Robustness Toolbox](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) abreviado como ART, es una librería opensource de [Adversarial Machine Learning](https://www.bbvanexttechnologies.com/adversarial-machine-learning/) que permite comprobar la robustez de los modelos demachine learning. Está desarrollada en Python e implementa ataques y defensas de extracción, inversión, envenenamiento y evasión. ART soporta los frameworks más populares: Tensorflow, Keras, PyTorch, MxNet, ScikitLearn, entre muchos otros). Además, no está limitada al uso de modelos que emplean imágenes como entrada, sino que soporta otros tipos de datos como audio, vídeo, datos tabulares, etc.
+[Adversarial Robustness Toolbox](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) abreviado como ART, es una librería opensource de [Adversarial Machine Learning](https://www.bbvanexttechnologies.com/adversarial-machine-learning) que permite comprobar la robustez de los modelos demachine learning. Está desarrollada en Python e implementa ataques y defensas de extracción, inversión, envenenamiento y evasión. ART soporta los frameworks más populares: Tensorflow, Keras, PyTorch, MxNet, ScikitLearn, entre muchos otros). Además, no está limitada al uso de modelos que emplean imágenes como entrada, sino que soporta otros tipos de datos como audio, vídeo, datos tabulares, etc.
 
 <p align="center">
   <img width="50%" src="./img/art_logo.png" alt="Logo de ART">
